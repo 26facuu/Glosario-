@@ -1,0 +1,12 @@
+boddy{
+    front-family: Arial, sans-serif;
+    background-color:rgb(32, 151, 111)
+}
+.contenedor{
+    width:200px ;
+    margin: 30px auto;
+    padding:20px ;
+    border: 2px solid #0077aa ;
+    background-color: rgb(219, 27, 27)
+    border 10px;
+}
